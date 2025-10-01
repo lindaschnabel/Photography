@@ -1,0 +1,12 @@
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+tr{
+  border-bottom: solid;
+  
+}
+th, td {
+  border: 1px solid;
+  line-height: 1.5;
+}
