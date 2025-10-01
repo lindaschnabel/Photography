@@ -23,7 +23,12 @@ I decided I would pretend to be a professional wedding photographer. The website
 
 
 ### HTML Verification
+I added images, a nav bar, paragraphs, a table, a button and other things
 (https://validator.w3.org/nu/?doc=https%3A%2F%2Flindaschnabel.github.io%2FPhotography%2Findex.html)
 
 ### CSS Verification
+I used different fonts, colors, background colors, font weights, and adjusted the layout.
 (https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flindaschnabel.github.io%2FPhotography%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Javascript
+I used javascript to create event listeners for submitting a form and revealing a fun fact. I also used to it to better format the gallery page. 
