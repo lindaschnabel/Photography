@@ -62,7 +62,7 @@ tr{
 }
 img {
   display: block;
-  padding: 25;
+  padding: 25px;
   margin: auto;
 }
 
@@ -104,4 +104,5 @@ button {
   color: #E7D8C9;
 
 }
+
 
