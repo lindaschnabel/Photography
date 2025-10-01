@@ -4,8 +4,8 @@ body {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 0 px;
+  padding: 0 px;
 }
 
 ul li a {
@@ -13,7 +13,7 @@ ul li a {
   display: block;
   color: black;
   font-family: helvetica;
-  font-style: bold;
+  font-weight: bold;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -62,7 +62,7 @@ tr{
 }
 img {
   display: block;
-  padding: 25;
+  padding: 25 px;
   margin: auto;
 }
 
@@ -102,4 +102,5 @@ button {
   font-family: courier;
   background: #584b40;
   color: #E7D8C9;
+
 }
