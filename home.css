@@ -4,8 +4,8 @@ body {
 
 ul {
   list-style-type: none;
-  margin: 0 px;
-  padding: 0 px;
+  margin: 0;
+  padding: 0;
 }
 
 ul li a {
@@ -62,7 +62,7 @@ tr{
 }
 img {
   display: block;
-  padding: 25 px;
+  padding: 25;
   margin: auto;
 }
 
@@ -104,3 +104,4 @@ button {
   color: #E7D8C9;
 
 }
+
